@@ -1084,23 +1084,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K948102J9K3F71M</string>
+			<string>C02735101GUJG36FB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>D861C036</data>
+			<data>LDNhvPx9</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro7,1</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KZR0F4P7QM</string>
+			<string>C02V90AQHX87</string>
 			<key>SystemUUID</key>
-			<string>09279C9E-1D88-4FB3-9EB1-D12F20476253</string>
+			<string>26BD3505-251A-45AD-8E26-4B3CD0247C3E</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
